@@ -4,7 +4,6 @@
 
 **Autor:** Tiago Luis Santos Silva
 
-### 📬 Contato
 ### Informações de Contato
 | Plataforma | Link |
 |---|---|
