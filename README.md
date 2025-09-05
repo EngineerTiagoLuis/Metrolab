@@ -24,7 +24,7 @@ O instalador do Metrolab é maior que o limite de 25 MB do GitHub, por isso ele 
 
 **Para baixar o aplicativo, clique no link abaixo:**
 
-⬇️ [**BAIXAR METROLAB - (Arquivo .ZIP)**](https://drive.google.com/file/d/1SgCy9qLYb2IPTEtwn9GJmsBtj0M9sulp/view?usp=sharing)
+⬇️ [**BAIXAR METROLAB - (Arquivo .ZIP)**](https://drive.google.com/drive/folders/1j3eZr2BDGrUm1Ak4ZLCx-AAR0FXlSlsh?usp=sharing)
 
 ---
 
