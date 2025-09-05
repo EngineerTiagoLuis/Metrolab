@@ -1,3 +1,5 @@
+![Logo do Metrolab](Metrolab.png)
+
 # Manual de Uso: Metrolab
 
 **Autores:** Tiago Luis Santos Silva, Eduardo José Stefanelli
