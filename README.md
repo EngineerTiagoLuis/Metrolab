@@ -3,8 +3,11 @@
 # Manual de Uso: Metrolab
 
 **Autor:** Tiago Luis Santos Silva
-**Contato:** eng.tiagoluis@gmail.com
 
+### 📬 Contato
+- **Email:** [eng.tiagoluis@gmail.com](mailto:eng.tiagoluis@gmail.com)
+- **LinkedIn:** [linkedin.com/in/engtiagoluis](https://www.linkedin.com/in/engtiagoluis/)
+- **Currículo Lattes:** [Acesse meu Lattes](https://lattes.cnpq.br/5939989143972994)
 ---
 
 ## 1. Resumo
