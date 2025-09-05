@@ -1,4 +1,4 @@
-![Logo do Metrolab](Metrolab.png)
+<img src="Metrolab.png" width="400" />
 
 # Manual de Uso: Metrolab
 
