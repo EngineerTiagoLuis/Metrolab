@@ -2,7 +2,7 @@
 
 # Manual de Uso: Metrolab
 
-**Autores:** Tiago Luis Santos Silva, Eduardo José Stefanelli
+**Autore:** Tiago Luis Santos Silva
 **Contato:** eng.tiagoluis@gmail.com
 
 ---
