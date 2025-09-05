@@ -153,4 +153,4 @@ O nônio é uma escala auxiliar usada para aumentar a precisão de instrumentos 
 
 ### Agradecimentos
 
-Gostaríamos de expressar nossa gratidão ao Professor Eduardo J. Stefanelli pelo desenvolvimento dos simuladores que são a base deste projeto. A sua dedicação e expertise foram fundamentais para a criação de uma ferramenta educacional completa.
+Gostaríamos de expressar minha gratidão ao Professor Eduardo J. Stefanelli pelo desenvolvimento dos simuladores que são a base deste projeto. A sua dedicação e expertise foram fundamentais para a criação de uma ferramenta educacional completa.
