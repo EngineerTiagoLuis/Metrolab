@@ -5,9 +5,12 @@
 **Autor:** Tiago Luis Santos Silva
 
 ### 📬 Contato
-- **Email:** [eng.tiagoluis@gmail.com](mailto:eng.tiagoluis@gmail.com)
-- **LinkedIn:** [linkedin.com/in/engtiagoluis](https://www.linkedin.com/in/engtiagoluis/)
-- **Currículo Lattes:** [Acesse meu Lattes](https://lattes.cnpq.br/5939989143972994)
+### Informações de Contato
+| Plataforma | Link |
+|---|---|
+| 📧 **Email** | `eng.tiagoluis@gmail.com` |
+| 💼 **LinkedIn** | [linkedin.com/in/engtiagoluis](https://www.linkedin.com/in/engtiagoluis/) |
+| 🎓 **Currículo Lattes** | [Acessar Currículo](https://lattes.cnpq.br/5939989143972994) |
 ---
 
 ## 1. Resumo
@@ -22,7 +25,7 @@ O instalador do Metrolab é maior que o limite de 25 MB do GitHub, por isso ele 
 
 **Para baixar o aplicativo, clique no link abaixo:**
 
-[**BAIXAR METROLAB - INSTALADOR**](https://drive.google.com/file/d/1SgCy9qLYb2IPTEtwn9GJmsBtj0M9sulp/view?usp=sharing)
+⬇️ [**BAIXAR METROLAB - INSTALADOR**](https://drive.google.com/file/d/1SgCy9qLYb2IPTEtwn9GJmsBtj0M9sulp/view?usp=sharing)
 
 ---
 
