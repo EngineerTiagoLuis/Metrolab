@@ -1,64 +1,127 @@
-# Metrolab: Uma Ferramenta de Simulação para Engenharia
+# Manual de Uso: Metrolab
 
-[cite_start]O **Metrolab** é uma ferramenta completa para aprender a usar instrumentos de medição, fazer testes de autoavaliação e entender conceitos complexos de engenharia[cite: 5]. [cite_start]As habilidades desenvolvidas com ele são essenciais para o trabalho em laboratórios e na indústria[cite: 6].
+**Autores:** Tiago Luis Santos Silva, Eduardo José Stefanelli
+**Contato:** eng.tiagoluis@gmail.com, professor@stefanelli.eng.br
 
 ---
 
-## 1. Instruções Gerais
+## 1. Resumo
 
-[cite_start]Para começar a usar o Metrolab, siga estes passos simples[cite: 10]:
+O **Metrolab** é uma ferramenta completa que permite aprender a usar instrumentos de medição, realizar testes de autoavaliação e compreender conceitos complexos de engenharia. As habilidades desenvolvidas são essenciais para o trabalho em laboratórios e na indústria.
 
-1.  [cite_start]Abra o arquivo **Metrolab.exe** ou clique no ícone do software[cite: 11].
-2.  [cite_start]Escolha a categoria desejada no menu superior[cite: 12].
-3.  [cite_start]Selecione o simulador ou teste de autoavaliação que você quer realizar[cite: 13].
-4.  [cite_start]Siga as instruções exibidas na tela para interagir com o instrumento virtual[cite: 14].
-5.  [cite_start]Nos testes de autoavaliação, observe seus acertos e erros para acompanhar seu progresso[cite: 15].
+---
+
+## 2. Instruções Gerais
+
+Para começar a usar o Metrolab, siga estes passos simples:
+
+1.  Abra o **Metrolab.exe** ou clique no ícone do software.
+2.  Escolha a categoria desejada no menu superior.
+3.  Selecione o simulador ou teste de autoavaliação que quer realizar.
+4.  Siga as instruções exibidas na tela para interagir com o instrumento virtual.
+5.  Nos testes de autoavaliação, observe seus acertos e erros para acompanhar seu progresso.
 
 ### Dicas gerais:
 
-* [cite_start]Sempre zere o instrumento virtual antes de iniciar uma nova medição[cite: 18].
-* [cite_start]Use os simuladores de componentes antes de tentar fazer as leituras[cite: 19].
-* [cite_start]A repetição é essencial para desenvolver rapidez e precisão nas leituras[cite: 20].
+* Sempre zere o instrumento virtual antes de iniciar uma nova medição.
+* Use os simuladores de componentes antes de tentar fazer as leituras.
+* A repetição é essencial para desenvolver rapidez e precisão nas leituras.
 
 ---
 
-## 2. Conteúdo e Simuladores
+## 3. Ajustes e Tolerâncias
 
-[cite_start]O Metrolab inclui simuladores e testes para diversas ferramentas e conceitos[cite: 8]:
-
-### Ajustes e Tolerâncias
-* [cite_start]**Objetivo:** Entender tolerâncias e ajustes de peças mecânicas conforme a norma técnica ABNT NBR 6158[cite: 23].
-
-### Goniômetro
-* [cite_start]**Objetivo:** Treinar a leitura de ângulos em graus e minutos com alta precisão[cite: 29].
-* [cite_start]**Autoavaliações:** Grau Cinco Minuto (intermediário) [cite: 37][cite_start], Grau Um Minuto (avançado) [cite: 38] [cite_start]e Grau Decimal[cite: 39].
-
-### Micrômetro
-* [cite_start]**Objetivo:** Conhecer as partes do micrômetro[cite: 42].
-* [cite_start]**Simuladores:** Milímetro Centesimal (0,01 mm) [cite: 43][cite_start], Milímetro Milesimal (0,001 mm) [cite: 44] [cite_start]e outros para medições em polegadas[cite: 45, 46].
-
-### Nônio (Vernier)
-* [cite_start]**O que é:** Uma escala auxiliar para aumentar a precisão de medições[cite: 49].
-* [cite_start]**Simuladores:** Milímetro [cite: 50][cite_start], Decimal [cite: 53] [cite_start]e Polegada[cite: 54].
-
-### Paquímetro
-* [cite_start]**Objetivo:** Conhecer as partes do paquímetro[cite: 57].
-* [cite_start]**Simuladores:** Paquímetro Digital e Paquímetro com Nônio/Relógio[cite: 59, 60].
-
-### Projeções e Representações
-* [cite_start]**Objetivo:** Aprender a visualizar e interpretar projeções ortogonais de peças[cite: 62].
-
-### Régua Graduada
-* [cite_start]**Simuladores:** Treina a leitura em milímetros e polegadas[cite: 69].
-
-### Relógio Comparador
-* [cite_start]**Simuladores:** Centesimal (0,01 mm) e Milesimal (0.001")[cite: 78, 79].
+* **Objetivo:** Entender tolerâncias e ajustes de peças mecânicas conforme a norma técnica ABNT NBR 6158.
+* **Como usar:** Selecione a classe de ajuste, observe o tipo de folga ou interferência e compare as peças virtualmente.
+* **Habilidades:** Aplicação prática de normas de engenharia e entendimento de ajustes mecânicos.
 
 ---
 
-## 3. Termodinâmica - Extras
+## 4. Goniômetro
 
-* [cite_start]**Ciclo Otto / Diesel:** Entenda o funcionamento dos motores de 4 tempos[cite: 86].
-* [cite_start]**Leis dos Gases (Boyle, Gay Lussac):** Estude as relações entre pressão, volume e temperatura[cite: 87].
-* [cite_start]**Transformações Termodinâmicas:** Aprenda sobre processos isobáricos, isotérmicos e isocóricos[cite: 88].
-* [cite_start]**Simulador Variação Pressão:** Observe como a pressão varia com o volume e a temperatura[cite: 89].
+* **Objetivo:** Treinar a leitura de ângulos em graus e minutos com alta precisão.
+* **Passos:**
+    1.  Alinhe o zero da escala principal com o zero do nônio.
+    2.  Leia o valor em graus na escala principal.
+    3.  Encontre a linha do nônio que coincide perfeitamente com uma linha da escala principal para ler os minutos.
+    4.  Converta o valor se necessário.
+* **Habilidade:** Leitura angular precisa.
+* **Autoavaliações:**
+    * **Grau Cinco Minuto:** Nível intermediário.
+    * **Grau Um Minuto:** Nível avançado, exige mais atenção.
+    * **Grau Decimal:** Leitura em formato decimal, útil para cálculos.
+
+---
+
+## 5. Micrômetro
+
+* **Objetivo:** Conhecer as partes do micrômetro: bico fixo, bico móvel, tambor e nônio.
+* **Simuladores:**
+    * **Milímetro Centesimal (0,01 mm):** Leitura padrão.
+    * **Milímetro Milesimal (0,001 mm):** Leitura de alta precisão.
+    * **Polegada Décimo Milésimo / Milesimal:** Leitura no sistema imperial.
+    * **Profundidade Milímetro Centesimal:** Ideal para medição de furos e ranhuras.
+
+---
+
+## 6. Nônio (Vernier)
+
+O nônio é uma escala auxiliar usada para aumentar a precisão de instrumentos de medição.
+* **Milímetro:** Resolução: 0,02 mm ou 0,05 mm.
+* **Decimal:** Converte medidas fracionárias para o formato decimal.
+* **Polegada:** Fracionária ou milesimal (0.025", 0.040", 0.050").
+
+---
+
+## 7. Paquímetro
+
+* **Objetivo:** Conhecer as partes do paquímetro: bicos de medição, escala fixa e móvel, relógio e visor digital.
+* **Simuladores:**
+    * **Paquímetro Digital:** Oferece leitura direta em milímetros.
+    * **Paquímetro com Nônio / Relógio:** Simula diferentes resoluções em milímetro e polegada.
+
+---
+
+## 8. Projeções e Representações
+
+* **Objetivo:** Aprender a visualizar e interpretar projeções ortogonais de peças.
+* **Passos:**
+    1.  Observe a peça em 3D.
+    2.  Compare as vistas frontal, lateral e superior.
+    3.  Treine a rotação mental da peça para entender as diferentes perspectivas.
+* **Habilidade:** Aumenta a visualização espacial, crucial para desenho técnico.
+
+---
+
+## 9. Régua Graduada
+
+* **Simuladores:** Treina a leitura em milímetros e polegadas (decimais e fracionárias).
+* **Autoavaliações:** Testam sua precisão de leitura.
+
+---
+
+## 10. Relógio Comparador
+
+* **Simuladores:**
+    * **Centesimal (0,01 mm):** Medições de pequenas variações em milímetros.
+    * **Milesimal (0.001"):** Medições de alta precisão em polegadas.
+* **Passos:**
+    1.  Posicione a sonda na superfície.
+    2.  Ajuste o contato da sonda.
+    3.  Leia o valor no mostrador.
+* **Habilidade:** Interpretação de tolerâncias e variações dimensionais.
+
+---
+
+## 11. Termodinâmica - Extras
+
+* **Ciclo Otto / Diesel:** Entenda o funcionamento dos motores de 4 tempos.
+* **Leis dos Gases (Boyle, Gay Lussac):** Estude as relações entre pressão, volume e temperatura (PVT).
+* **Transformações Termodinâmicas:** Aprenda sobre processos isobáricos, isotérmicos e isocóricos.
+* **Simulador Variação Pressão:** Observe como a pressão varia com o volume e a temperatura.
+
+---
+
+### Agradecimentos
+
+Gostaríamos de expressar nossa gratidão ao Professor Eduardo J. Stefanelli pelo desenvolvimento dos simuladores que são a base deste projeto. A sua dedicação e expertise foram fundamentais para a criação de uma ferramenta educacional completa.
