@@ -1,4 +1,4 @@
-<img src="Metrolab.png" width="400" />
+<img src="Metrolab.png" width="300" />
 
 # Manual de Uso: Metrolab
 
