@@ -11,6 +11,28 @@ O **Metrolab** é uma ferramenta completa que permite aprender a usar instrument
 
 ---
 
+## Download do Metrolab
+
+O instalador do Metrolab é maior que o limite de 25 MB do GitHub, por isso ele está hospedado em nosso Google Drive.
+
+**Para baixar o aplicativo, clique no link abaixo:**
+
+[**BAIXAR METROLAB - INSTALADOR**](https://drive.google.com/file/d/1SgCy9qLYb2IPTEtwn9GJmsBtj0M9sulp/view?usp=sharing)
+
+---
+
+## Como Baixar e Usar o Metrolab
+
+Para instalar e usar o aplicativo, siga as instruções abaixo:
+
+1.  **Acesse o link:** Clique no link do Google Drive fornecido acima.
+2.  **Baixe o arquivo:** Faça o download do **arquivo compactado** (geralmente .zip ou .rar) para o seu computador.
+3.  **Descompacte:** Use um programa como o WinRAR ou 7-Zip para descompactar o arquivo. Isso criará uma nova pasta no seu computador.
+4.  **Abra a pasta:** Entre na pasta que foi descompactada, que tem o nome **Metrolab**.
+5.  **Execute o programa:** Dentro da pasta, encontre e dê um duplo clique no arquivo **Metrolab.exe** para iniciar o aplicativo.
+
+---
+
 ## 2. Instruções Gerais
 
 Para começar a usar o Metrolab, siga estes passos simples:
